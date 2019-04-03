@@ -1,6 +1,6 @@
 # zz_vs2019_fsc_stack_overflow_repro
 
-Small repro for stack overflow in fsc.exe - Visual Studio 2019.
+Small repro for stack overflow in fsc.exe - Visual Studio 2019 - Microsoft/visualfsharp#6426
 
 Observed behavior is that it takes about 15 seconds to build, and fails.
 
